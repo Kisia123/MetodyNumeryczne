@@ -1,2 +1,2 @@
 # MetodyNumeryczne
-Semestr 2 - MN
+Semestr 4 - MN
